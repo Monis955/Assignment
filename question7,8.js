@@ -1,0 +1,10 @@
+"use strict";
+console.log("_________________________");
+console.log(4 + 4);
+console.log("_________________________");
+console.log(10 - 2);
+console.log("_________________________");
+console.log(4 * 2);
+console.log("_________________________");
+console.log(24 / 3);
+console.log("_________________________");
